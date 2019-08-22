@@ -1,0 +1,47 @@
+/* HTML */
+.token.tag {
+  color: white;
+}
+
+.token.tag .token.tag {
+  color: hotpink;
+}
+
+.token.tag .token.punctuation {
+  color: aqua;
+}
+.token.tag .token.attr-value {
+  color: SpringGreen;
+}
+.token.tag .token.attr-name {
+  color: gold;
+}
+/* CSS */
+.token.selector {
+  color: hotpink;
+}
+
+.token.punctuation {
+  color: aqua;
+}
+.token.string {
+  color: SpringGreen;
+}
+.token.property {
+  color: yellow;
+}
+/* JS */
+.token.keyword {
+  color: red;
+}
+
+.token.operator {
+  color: fuchsia;
+  color: aquamarine;
+}
+
+.token.function-variable.function {
+  color: lime;
+  color: orange;
+  color: plum;
+}
