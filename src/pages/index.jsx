@@ -73,8 +73,8 @@ const Index = () => (
         <Title>What I am doing now?</Title>
         <ProjectsWrapper>
           <ProjectCard
-            title="Code Quests"
-            link="https://www.twitch.tv/codequests"
+            title="Code With Brian"
+            link="https://www.twitch.tv/codewithbrian"
             bg="linear-gradient(to right, #D4145A 0%, #FBB03B 100%)"
           >
             Find me on twitch.tv mon-fri crushing it, teaching some coding
