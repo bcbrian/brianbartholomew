@@ -74,7 +74,7 @@ const Index = () => (
         <ProjectsWrapper>
           <ProjectCard
             title="Code With Brian"
-            link="https://www.twitch.tv/codewithbrian"
+            link="https://www.twitch.tv/codesagas"
             bg="linear-gradient(to right, #D4145A 0%, #FBB03B 100%)"
           >
             Find me on twitch.tv mon-fri crushing it, teaching some coding
@@ -82,11 +82,10 @@ const Index = () => (
           </ProjectCard>
           <ProjectCard
             title="Adjunct Instructor"
-            link="https://bootcamp.umn.edu/coding/"
+            link="https://ebacon.com"
             bg="linear-gradient(to right, #662D8C 0%, #ED1E79 100%)"
           >
-            During the day teaching a Coding Bootcamp at the University of
-            Minnesota.
+            During the day I am lead engineer at TAG|eBacon.
           </ProjectCard>
           {/* <ProjectCard
             title="Tomb Raider"
@@ -115,7 +114,7 @@ const Index = () => (
         </AboutHero>
         <AboutDesc>
           Programing came to me in highschool as form of escape from the mundane
-          highscool routine. Later in life I found myself hacking away at wix
+          highschool routine. Later in life I found myself hacking away at wix
           and wordpress. Eventually droping out of college twice, I became a
           full time developer and educator.
         </AboutDesc>
